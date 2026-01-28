@@ -27,7 +27,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+#Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just #name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am an undergraduate student in Electrical and Computer Engineering with a strong interest in embedded systems, wireless sensing, and signal processing. I enjoy building end-to-end engineering systems that integrate hardware design, embedded programming, and data analysis.
+
+My research and project experience centers on wireless multi-sensor platforms based on ESP32 and ESP-NOW, where I focus on synchronized data acquisition and real-time processing of biometric signals. Through these projects, I have gained hands-on experience in system architecture design, low-level embedded development, and experimental data collection.
+
+More broadly, I am interested in embedded system reliability, sensor fusion, and the integration of machine learning techniques with resource-constrained hardware. I am actively seeking research opportunities that allow me to further explore these areas and contribute to practical, system-oriented engineering research.
+
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
